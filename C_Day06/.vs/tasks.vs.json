@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "任务-2_字符串",
+      "appliesTo": "2_字符串/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "任务-2_字符串",
+      "appliesTo": "2_字符串/",
+      "type": "launch"
+    }
+  ]
+}
